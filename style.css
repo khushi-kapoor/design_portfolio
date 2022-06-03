@@ -914,14 +914,10 @@ p {
 		justify-content: center;
 		align-items: center;
 	}
-	#contact .right {
+	#contact .left {
 		width: 100%;
 	}
-	#contact .right .form-wrapper {
-		padding: 3rem;
-		width: 100%;
-		max-width: 100%;
-	}
+	
 }
 
 /* Footer Section */
